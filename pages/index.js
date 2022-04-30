@@ -12,6 +12,7 @@ export default function Home({ allPostsData }) {
       <Layout home>
          <Head>
             <title>{siteTitle}</title>
+            Vengo de los cambios realizados en la rama prueba-vercel
          </Head>
          <section className={utilStyles.headingMD}>
             <p>
